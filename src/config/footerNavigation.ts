@@ -60,10 +60,10 @@ export const footerNavigationData: FooterData = {
 				//	subCategory: 'Pricing',
 				//	subCategoryLink: '/pricing'
 				//},
-				{
-					subCategory: 'Changelog',
-					subCategoryLink: '/changelog'
-				},
+				//{
+				//	subCategory: 'Changelog',
+				//	subCategoryLink: '/changelog'
+				//},
 				{
 					subCategory: 'Terms',
 					subCategoryLink: '/terms'
@@ -77,14 +77,14 @@ export const footerNavigationData: FooterData = {
 					subCategory: 'About us',
 					subCategoryLink: '/'
 				},
-				{
-					subCategory: 'News',
-					subCategoryLink: '/blog'
-				},
-				{
-					subCategory: 'Careers',
-					subCategoryLink: '/blog'
-				}
+				//{
+				//	subCategory: 'News',
+				//	subCategoryLink: '/blog'
+				//},
+				//{
+				//	subCategory: 'Careers',
+				//	subCategoryLink: '/blog'
+				//}
 			]
 		},
 		{
