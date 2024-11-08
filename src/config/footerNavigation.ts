@@ -106,6 +106,6 @@ export const footerNavigationData: FooterData = {
 		}
 	],
 	subFooter: {
-		copywriteText: '© Foxi 2024.'
+		copywriteText: '© Sintesys.id 2024.'
 	}
 }
