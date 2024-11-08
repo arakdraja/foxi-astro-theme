@@ -35,7 +35,7 @@
 		"category": "pricing",
 		"open": false
 	},
-	//{
+	/*//{
 	//	"question": "Can I use Sintesys with Google Calendar?",
 	//	"reply": "Yes, Sintesys integrates seamlessly with Google Calendar for easy scheduling and task management. This integration helps you keep track of your events and tasks in one place.",
 	//	"category": "integrations",
@@ -52,7 +52,7 @@
 	//	"reply": "To connect Sintesys with Trello, go to the integrations page in your settings and follow the instructions to link your accounts. This integration helps you manage your Trello boards and Sintesys projects together.",
 	//	"category": "integrations",
 	//	"open": false
-	//},
+	//},*/
 	{
 		"question": "Is there an API for custom integrations?",
 		"reply": "Yes, we provide an API that allows you to create custom integrations with Sintesys. Our API documentation provides detailed instructions and examples to help you get started.",
