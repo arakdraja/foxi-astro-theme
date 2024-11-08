@@ -49,6 +49,7 @@ export const navigationBarData: NavData = {
 				//{ name: 'Changelog', link: '/changelog' },
 				{ name: 'FAQ', link: '/faq' },
 				{ name: 'Terms', link: '/terms' }
+				{ name: 'Privacy & Policy', link: '/policy' }
 			]
 		},
 		{ name: 'Contact', link: '/contact' }
