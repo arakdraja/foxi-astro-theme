@@ -70,7 +70,7 @@ export const footerNavigationData: FooterData = {
 				},
 				{
 					subCategory: 'Privacy & Policy',
-					subCategoryLink: '/policy'
+					subCategoryLink: '/privacy'
 				}
 			]
 		},
