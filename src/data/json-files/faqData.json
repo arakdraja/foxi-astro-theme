@@ -59,12 +59,12 @@
 		"category": "integrations",
 		"open": false
 	},
-	{
-		"question": "Can I sync Sintesys with my email?",
-		"reply": "Currently, we do not support email integration, but this feature is on our roadmap for future releases. Stay tuned for updates as we continue to enhance Sintesys's capabilities.",
-		"category": "integrations",
-		"open": false
-	},
+	//{
+	//	"question": "Can I sync Sintesys with my email?",
+	//	"reply": "Currently, we do not support email integration, but this feature is on our roadmap for future releases. Stay tuned for updates as we continue to enhance Sintesys's capabilities.",
+	//	"category": "integrations",
+	//	"open": false
+	//},
 	{
 		"question": "Does Sintesys support Zapier?",
 		"reply": "Yes, Sintesys integrates with Zapier, allowing you to connect with over 2,000 apps and automate your workflows. This integration helps you streamline your processes and improve efficiency.",
