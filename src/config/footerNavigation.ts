@@ -37,11 +37,11 @@ export const footerNavigationData: FooterData = {
 	footerAbout: {
 		title: 'Foxi.',
 		aboutText:
-			'Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. Just copy and paste them on your Tailwind CSS project.',
+			'Sintesys is a Workforce Management System that can help an organization simplify and automate work processes to become more efficient.',
 		logo: {
 			src: '/logo.svg',
-			alt: 'The tailwind astro theme',
-			text: 'Foxi.'
+			alt: 'Sintesys. Workforce Management System',
+			text: 'Sintesys.'
 		}
 	},
 	footerColumns: [
