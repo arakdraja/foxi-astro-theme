@@ -21,7 +21,7 @@ export interface Config {
 }
 
 export const configData: Config = {
-	siteTitle: 'Foxi. Tailwind CSS Astro Starter Kit by Oxygenna',
+	siteTitle: 'Sintesys. Workforce Management System by ISH',
 	siteDescription:
 		'Sintesys is a Workforce Management System that can help an organization simplify and automate work processes to become more efficient.',
 	ogImage: '/og.jpg',
