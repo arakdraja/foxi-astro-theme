@@ -35,45 +35,15 @@
 		"category": "pricing",
 		"open": false
 	},
-	/*//{
-	//	"question": "Can I use Sintesys with Google Calendar?",
-	//	"reply": "Yes, Sintesys integrates seamlessly with Google Calendar for easy scheduling and task management. This integration helps you keep track of your events and tasks in one place.",
-	//	"category": "integrations",
-	//	"open": true
-	//},
-	//{
-	//	"question": "Does Sintesys work with Slack?",
-	//	"reply": "Yes, you can integrate Sintesys with Slack to receive notifications and updates directly in your channels. This allows you to stay informed about your projects without leaving Slack.",
-	//	"category": "integrations",
-	//	"open": false
-	//},
-	//{
-	//	"question": "How do I connect Sintesys with Trello?",
-	//	"reply": "To connect Sintesys with Trello, go to the integrations page in your settings and follow the instructions to link your accounts. This integration helps you manage your Trello boards and Sintesys projects together.",
-	//	"category": "integrations",
-	//	"open": false
-	//},*/
 	{
 		"question": "Is there an API for custom integrations?",
 		"reply": "Yes, we provide an API that allows you to create custom integrations with Sintesys. Our API documentation provides detailed instructions and examples to help you get started.",
 		"category": "integrations",
 		"open": false
 	},
-	//{
-	//	"question": "Can I sync Sintesys with my email?",
-	//	"reply": "Currently, we do not support email integration, but this feature is on our roadmap for future releases. Stay tuned for updates as we continue to enhance Sintesys's capabilities.",
-	//	"category": "integrations",
-	//	"open": false
-	//},
-	{
-		"question": "Does Sintesys support Zapier?",
-		"reply": "Yes, Sintesys integrates with Zapier, allowing you to connect with over 2,000 apps and automate your workflows. This integration helps you streamline your processes and improve efficiency.",
-		"category": "integrations",
-		"open": false
-	},
 	{
 		"question": "What are the main features of Sintesys?",
-		"reply": "Sintesys includes in-app messaging, project management, time tracking, customizable dashboards, and more. These features are designed to help you stay organized, communicate effectively, and manage your time efficiently.",
+		"reply": "Sintesys includes Basic HR Features such time tracking, customizable dashboards, and more. These features are designed to help you stay organized, communicate effectively, and manage your time efficiently.",
 		"category": "features",
 		"open": true
 	},
