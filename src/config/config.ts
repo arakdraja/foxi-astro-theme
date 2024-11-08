@@ -23,11 +23,11 @@ export interface Config {
 export const configData: Config = {
 	siteTitle: 'Foxi. Tailwind CSS Astro Starter Kit by Oxygenna',
 	siteDescription:
-		'Foxi is a design and development agency that specializes in creating beautiful and functional websites.',
+		'Sintesys is a Workforce Management System that can help an organization simplify and automate work processes to become more efficient.',
 	ogImage: '/og.jpg',
 	logo: {
 		src: '/logo.svg',
-		alt: 'Foxi. logo'
+		alt: 'Sintesys. logo'
 	},
 	canonical: true,
 	noindex: false,
