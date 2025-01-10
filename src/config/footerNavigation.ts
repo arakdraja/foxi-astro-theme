@@ -110,6 +110,6 @@ export const footerNavigationData: FooterData = {
 		}
 	],
 	subFooter: {
-		copywriteText: '© Sintesys.id 2024.'
+		copywriteText: '© PT Infomedia Solusi Humanika 2024.'
 	}
 }
