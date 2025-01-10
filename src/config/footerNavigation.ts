@@ -35,7 +35,7 @@ export interface FooterData {
 
 export const footerNavigationData: FooterData = {
 	footerAbout: {
-		title: 'Foxi.',
+		title: 'Sintesys.',
 		aboutText:
 			'Sintesys is a Workforce Management System that can help an organization simplify and automate work processes to become more efficient.',
 		logo: {
