@@ -191,24 +191,24 @@
 		"description": "Access comprehensive support resources to assist users at all levels. From troubleshooting to advanced tips, get the help you need.",
 		"category": "Support"
 	},
-	//{
-	//	"title": "Voice Recordings",
-	//	"icon": "microphone",
-	//	"description": "Receive real-time updates on accessibility features and improvements. Stay informed about changes that impact your mobile and web access.",
-	//	"category": "Support"
-	//},
+	{
+		"title": "Voice Recordings",
+		"icon": "microphone",
+		"description": "Receive real-time updates on accessibility features and improvements. Stay informed about changes that impact your mobile and web access.",
+		"category": "Support"
+	},
 	{
 		"title": "User Identity Verification",
 		"icon": "identification",
 		"description": "Analyze productivity metrics to optimize performance. Gain insights into team and individual productivity to drive improvements.",
 		"category": "Productivity"
 	},
-	//{
-	//	"title": "Payment Integrations",
-	//	"icon": "credit-card",
-	//	"description": "Communicate directly within the app using in-app messaging. Keep conversations organized and accessible without switching between tools.",
-	//	"category": "Integrations"
-	//},
+	{
+		"title": "Payment Integrations",
+		"icon": "credit-card",
+		"description": "Communicate directly within the app using in-app messaging. Keep conversations organized and accessible without switching between tools.",
+		"category": "Integrations"
+	},
 	{
 		"title": "Transparent API ",
 		"icon": "cube-transparent",
