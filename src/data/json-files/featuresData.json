@@ -191,12 +191,12 @@
 		"description": "Access comprehensive support resources to assist users at all levels. From troubleshooting to advanced tips, get the help you need.",
 		"category": "Support"
 	},
-	{
-		"title": "Voice Recordings",
-		"icon": "microphone",
-		"description": "Receive real-time updates on accessibility features and improvements. Stay informed about changes that impact your mobile and web access.",
-		"category": "Support"
-	},
+	//{
+	//	"title": "Voice Recordings",
+	//	"icon": "microphone",
+	//	"description": "Receive real-time updates on accessibility features and improvements. Stay informed about changes that impact your mobile and web access.",
+	//	"category": "Support"
+	//},
 	{
 		"title": "User Identity Verification",
 		"icon": "identification",
