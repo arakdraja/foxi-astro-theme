@@ -203,12 +203,12 @@
 		"description": "Analyze productivity metrics to optimize performance. Gain insights into team and individual productivity to drive improvements.",
 		"category": "Productivity"
 	},
-	{
-		"title": "Payment Integrations",
-		"icon": "credit-card",
-		"description": "Communicate directly within the app using in-app messaging. Keep conversations organized and accessible without switching between tools.",
-		"category": "Integrations"
-	},
+	//{
+	//	"title": "Payment Integrations",
+	//	"icon": "credit-card",
+	//	"description": "Communicate directly within the app using in-app messaging. Keep conversations organized and accessible without switching between tools.",
+	//	"category": "Integrations"
+	//},
 	{
 		"title": "Transparent API ",
 		"icon": "cube-transparent",
