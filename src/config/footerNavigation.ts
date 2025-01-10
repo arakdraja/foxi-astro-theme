@@ -37,7 +37,7 @@ export const footerNavigationData: FooterData = {
 	footerAbout: {
 		title: 'Sintesys.',
 		aboutText:
-			'Sintesys is a Workforce Management System that can help an organization simplify and automate work processes to become more efficient.',
+			'Sintesys by PT Infomedia Solusi Humanika, is a Workforce Management System that can help an organization simplify and automate work processes to become more efficient.',
 		logo: {
 			src: '/logo.svg',
 			alt: 'Sintesys. Workforce Management System',
