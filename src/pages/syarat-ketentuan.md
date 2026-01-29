@@ -1,3 +1,8 @@
+---
+layout: ../layouts/Layout.astro
+title: "Syarat dan Ketentuan"
+description: "A page about who I am and what I do."
+---
 # Syarat dan Ketentuan
 
 *Dimodifikasi pada: 21 Oktober 2025*
