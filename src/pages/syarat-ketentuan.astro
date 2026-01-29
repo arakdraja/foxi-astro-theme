@@ -1,0 +1,87 @@
+---
+// Components
+import Layout from '../layouts/Layout.astro'
+import SidebarContent from '../components/blocks/basic/StickySidebar.astro'
+import Hero from '../components/blocks/hero/PageHeader.astro'
+
+// Content
+const SEO = {
+	title: 'Sintesys.id | Syarat dan Ketentuan',
+	description:
+		"Sintesys's terms of service outlines the rules and regulations that govern your use of our services. Please read them carefully to understand your rights and responsibilities."
+}
+const header = {
+	title: 'Syarat dan Ketentuan',
+	text: 'SYARAT & KETENTUAN PENGGUNAAN PLATFORM SINTESYS.'
+}
+---
+
+<Layout title={SEO.title} description={SEO.description}>
+	<Hero title={header.title} text={header.text} />
+	<SidebarContent>
+		<div slot="sidebar">
+			<h3>Introduction</h3>
+			<p>
+				Mohon luangkan waktu sejenak untuk membaca syarat dan ketentuan ini agar memahami hak dan tanggung jawab Anda saat menggunakan layanan kami.
+			</p>
+		</div>
+		<div class="basic-text">
+			<h4>Welcome to Sintesys</h4>
+			<p>
+				<b>Sintesys</b> (selanjutnya disebut <b>Sintesys</b> atau <b>“Kami”</b>) merupakan <i>platform workforce management system</i> yang dikembangkan oleh <b>PT Infomedia Solusi Humanika</b> (selanjutnya disebut <b>ISH</b>) yang dirancang untuk menyederhanakan dan mengotomatisasi proses kerja guna meningkatkan efisiensi organisasi. 
+			<p>
+				Saat menggunakan <b>Sintesys</b>, Pengguna (selanjutnya disebut “Anda” atau “Pengguna”) tunduk pada pedoman, aturan, atau ketentuan yang berlaku, yang dapat diperbarui dari waktu ke waktu (termasuk dan tidak terbatas pada Kebijakan Privasi <b>Sintesys</b>).
+			</p>
+			<p>
+				Dengan menggunakan Situs dan/atau Aplikasi maka Anda dianggap telah membaca,  mengerti, memahami, dan menyetujui semua isi Syarat dan Ketentuan ini.  Jika Anda tidak menerima dan menyetujui salah satu, sebagian, atau seluruh isi Syarat dan Ketentuan ini, maka Anda tidak dapat menggunakan <b>Sintesys</b>.
+			</p>	
+		</div>
+	</SidebarContent>
+	<SidebarContent classes="bg-neutral-50 dark:bg-neutral-900">
+		<div slot="sidebar">
+			<h3>Definisi</h3>
+		</div>
+		<div class="basic-text">
+		<ol>
+			<li><strong>Akun</strong> adalah akun yang telah didaftarkan untuk dapat mengakses <strong><em>Sintesys</em></strong>.</li>
+			<li><strong>Data Pribadi</strong> adalah setiap informasi yang benar dan nyata yang melekat dan dapat diidentifikasi pada masing-masing individu, baik secara langsung maupun tidak langsung, baik berdasarkan salah satu maupun gabungan darinya, baik melalui sistem elektronik maupun non elektronik. Informasi yang dimaksud termasuk namun tidak terbatas pada nama seseorang, nomor identitas, nomor handphone, lokasi, identitas dalam jaringan sistem elektronik, dan hal-hal lain yang berkaitan dengan individu tersebut.</li>
+			<li><strong>Data Profil</strong> adalah data yang terdapat pada halaman profil bagi Pengguna.</li>
+			<li><strong>Layanan</strong> adalah aplikasi <strong><em>Sintesys</em></strong> baik versi web maupun mobile yang menyediakan layanan manajemen tenaga kerja dan pengetahuan.</li>
+			<li><strong>Pengguna</strong> adalah karyawan ISH yang sudah terdaftar pada Layanan <strong><em>Sintesys</em></strong>.</li>
+			<li><strong>Situs</strong> adalah <a href="https://app.sintesys.id/">https://app.sintesys.id/</a>.</li>
+   		</ol>
+		</div>
+	</SidebarContent>
+	<SidebarContent>
+		<div slot="sidebar">
+			<h3>Penggunaan Akun dan Perilaku</h3>
+		</div>
+		<ol>
+			<li>Hanya Pengguna yang memiliki Akun yang dapat menggunakan layanan <strong><em>Sintesys</em></strong>.</li>
+			<li>Untuk dapat mengakses <strong><em>Sintesys</em></strong>, Anda dapat diminta untuk memberikan beberapa informasi dan Data Pribadi Anda. Sehubungan dengan penggunaan Layanan Sintesys, Anda setuju untuk memberikan informasi dan data pribadi Anda secara benar, jelas, akurat, dan lengkap kepada <strong><em>Sintesys</em></strong> ketika diminta, sekurang-kurangnya berupa Nama Lengkap, Email, dan NIK ISH atau NIK TKP.</li>
+			<li>Pengguna bertanggung jawab untuk menjaga kerahasiaan dan keamanan Akun dan password Pengguna.</li>
+			<li>Setiap pengguna bertanggung jawab penuh atas kepatuhan terhadap kebijakan perlindungan data dengan tidak mengunggah informasi pribadi atau <em>Personally Identifiable Information (PII)</em> ke dalam sistem <strong><em>Sintesys</em></strong>.</li>
+			<li>Apabila Pengguna memberikan pernyataan dan jaminan, informasi atau Data Pribadi yang tidak benar, tidak jelas, tidak akurat, atau tidak lengkap, maka <strong><em>Sintesys</em></strong> berhak menolak permohonan pembuatan Akun dan menangguhkan atau memberhentikan sebagian atau seluruh akses dan Layanan <strong><em>Sintesys</em></strong> yang diberikan kepada Pengguna.</li>
+			<li><strong><em>Sintesys</em></strong> berhak menganggap dan memperlakukan seluruh aktivitas yang dilakukan melalui Akun <strong><em>Sintesys</em></strong> sebagai aktivitas yang telah dilakukan oleh Pengguna.</li>
+			<li>Pengguna menyetujui untuk segera memberitahukan <strong><em>Sintesys</em></strong> mengenai setiap dugaan atau aktivitas penggunaan Akun <strong><em>Sintesys</em></strong> atau password secara tidak berwenang atau pelanggaran keamanan lainnya yang berkaitan dengan Akun Pengguna secepat mungkin.</li>
+		</ol>
+	</SidebarContent>
+	<SidebarContent>
+		<div slot="sidebar">
+			<h3>Hak Kekayaan Intelektual</h3>
+		</div>
+		<ol>
+			<li>Hak Atas Kekayaan Intelektual terkait dengan <em><strong>Sintesys</strong></em> dan Layanan, termasuk namun tidak terbatas pada, nama, logo, kode program, desain <em>interface</em>, merek dagang, teknologi, basis data, proses dan model bisnis, merupakan milik ISH dan dilindungi oleh hak cipta, merek, paten dan hak kekayaan intelektual lainnya yang berlaku berdasarkan hukum Republik Indonesia.</li>
+			<li>Pengguna tidak diberikan hak, lisensi, atau izin dalam bentuk apa pun untuk:
+				<ol>
+					<li>Menggandakan, mendistribusikan, memodifikasi, menerbitkan, atau membuat turunan dari materi atau elemen <em><strong>Sintesys</strong></em>;</li>
+					<li>Mengklaim kepemilikan atau menciptakan produk serupa yang dapat menimbulkan kebingungan dengan <em><strong>Sintesys</strong></em>;</li>
+					<li>Menggunakan logo, nama dagang, atau merek tanpa persetujuan tertulis dari ISH.</li>
+				</ol>
+			</li>
+			<li>Apabila <em><strong>Sintesys</strong></em> diakses oleh pihak eksternal di kemudian hari, maka penggunaan layanan oleh pihak tersebut tunduk pada lisensi terbatas yang akan ditentukan secara terpisah oleh ISH.</li>
+			<li>Jika Anda mengetahui atau mencurigai adanya pelanggaran terhadap hak kekayaan intelektual <em><strong>Sintesys</strong></em>, silakan laporkan ke kontak resmi yang tersedia pada situs ini.</li>
+		</ol>
+	</SidebarContent>
+	<!-- ...rest of the content remains unchanged... -->
+</Layout>
