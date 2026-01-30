@@ -72,7 +72,8 @@ export const footerNavigationData: FooterData = {
 				},
 				{
 					subCategory: 'Privacy & Policy',
-					subCategoryLink: '/privacy'
+					// subCategoryLink: '/privacy'
+					subCategoryLink: '/kebijakan-privasi'
 				}
 			]
 		},

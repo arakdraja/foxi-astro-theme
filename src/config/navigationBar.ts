@@ -50,7 +50,8 @@ export const navigationBarData: NavData = {
 				{ name: 'FAQ', link: '/faq' },
 				// { name: 'Terms', link: '/terms' },
 				{ name: 'Terms & Conditions', link: '/syarat-dan-ketentuan' },
-				{ name: 'Privacy & Policy', link: '/privacy' }
+				// { name: 'Privacy & Policy', link: '/privacy' }
+				{ name: 'Privacy & Policy', link: '/kebijakan-privasi' }
 			]
 		},
 		{ name: 'Contact', link: '/contact' }
