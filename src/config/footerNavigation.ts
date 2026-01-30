@@ -66,7 +66,9 @@ export const footerNavigationData: FooterData = {
 				//},
 				{
 					subCategory: 'Terms',
-					subCategoryLink: '/terms'
+					// subCategoryLink: '/terms'
+					subCategoryLink: '/syarat-ketentuan'
+
 				},
 				{
 					subCategory: 'Privacy & Policy',
