@@ -65,7 +65,7 @@ export const footerNavigationData: FooterData = {
 				//	subCategoryLink: '/changelog'
 				//},
 				{
-					subCategory: 'Terms',
+					subCategory: 'Terms & Conditions',
 					// subCategoryLink: '/terms'
 					subCategoryLink: '/syarat-ketentuan'
 
