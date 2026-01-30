@@ -1,8 +1,7 @@
 {
-  // "extends": "astro/tsconfigs/strict", // Disabled: file not found
+  "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
     "strictNullChecks": true,
-    "allowJs": true,
-    "outDir": "./dist"
+    "allowJs": true
   }
 }
